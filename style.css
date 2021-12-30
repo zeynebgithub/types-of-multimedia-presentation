@@ -1,0 +1,58 @@
+body{
+    background: rgb(98, 185, 164);
+    
+}
+h1{
+    color:rgb(7, 2, 32);
+    text-align: center;
+}
+h3{
+    color: rgb(0, 52, 95);
+    text-align:center;
+}
+h2{
+    color: rgb(0, 52, 95);
+    text-align:center;
+}
+    
+    
+
+p{
+    font-size: 22px;
+    box-shadow: rgba(red, green, blue, alpha);
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h5{
+    color: rgb(55, 14, 88);
+}
+.w1{
+    
+    float: right;
+    width: auto;
+    padding: 2px;
+}
+.w2{
+    float: center;
+    width: auto;
+    padding: 2px;
+}
+.w3{
+    float: center;
+    width: auto;
+    padding: 2px;
+}
+i{
+    color: rgb(25, 20, 29);
+}
+
+.w4{
+    float: center;
+    width: auto;
+    padding: 4px;
+}
